@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval" >
+            <gradient android:endColor="#0BA2E7"
+                android:startColor="#030F50"
+                />
+            <size android:width="60dp" android:height="60dp"/>
+        </shape>
+    </item>
+
+    <item
+        android:gravity="center"
+        android:width="40dp"
+        android:height="40dp"
+        android:drawable="@drawable/ic_action_name"/>
+
+</layer-list>
